@@ -13,3 +13,21 @@ Kullanıcılar adlarını, e-posta adreslerini ve iletmek istedikleri mesajları
 İletişim formu AJAX kullanılarak sunucuya gönderilir ve sayfa yeniden yüklenmeden işlenir.
 Gönderilen iletişim mesajları admin panelinde yönetilebilir.
 Kullanıcılar gönderdikleri mesajın başarıyla iletilip iletilmediğini bir modal aracılığıyla görürler.
+
+## Kurulum
+Projeyi klonlayın:
+ ```bash
+git clone https://github.com/muharremosmantopakkaya/Django_ContactForm.git
+```
+Proje dizinine gidin:
+ ```bash
+cd django1
+```
+Gerekli paketleri yükleyin:
+ ```bash
+pip install Django
+```
+Sunucuyu başlatın:
+ ```bash
+python manage.py runserver
+```
