@@ -41,6 +41,6 @@ Admin paneli, iletişim formu aracılığıyla gönderilen mesajları yönetmek 
 
 ### İletişim Formu
 
-![İletişim Formu](django1/img/iletisim.png)
+<img src="django1/img/iletisim.png" alt="İletişim Formu" width="300">
 
 İletişim formu, kullanıcıların adlarını, e-posta adreslerini ve iletmek istedikleri mesajları göndermelerini sağlar. Kullanıcılar bu form aracılığıyla ilettikleri mesajların gönderim durumunu bir modal aracılığıyla başarılı veya başarısız olarak görüntüleyebilirler.
