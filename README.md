@@ -31,3 +31,16 @@ Sunucuyu başlatın:
  ```bash
 python manage.py runserver
 ```
+## Uygulama Arayüzleri
+
+### Admin Paneli
+
+![Admin Paneli](django1/img/adminpanel.png)
+
+Admin paneli, iletişim formu aracılığıyla gönderilen mesajları yönetmek için kullanılan bir arayüzdür. Buradan gönderilen mesajları görüntüleyebilir, düzenleyebilir ve silebilirsiniz.
+
+### İletişim Formu
+
+![İletişim Formu](django1/img/iletisim.png)
+
+İletişim formu, kullanıcıların adlarını, e-posta adreslerini ve iletmek istedikleri mesajları göndermelerini sağlar. Kullanıcılar bu form aracılığıyla ilettikleri mesajların durumunu bir modal aracılığıyla görüntüleyebilirler.
